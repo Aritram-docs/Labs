@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"24bab1da-6806-4418-b070-4c5961c33b75","ts":"2026-06-21T15:35:38.784-04:00","eventName":"n8n.audit.workflow.activated","message":"n8n.audit.workflow.activated","payload":{"workflowId":"lnjOwW0PVvKi8GMI","workflowName":"IPC to BNS Extractor v2","activeVersionId":"fb6d349b-01f9-46d4-b200-6ecd5797cbef","activationMode":"init"}}
+{"__type":"$$EventMessageConfirm","confirm":"24bab1da-6806-4418-b070-4c5961c33b75","ts":"2026-06-21T15:35:38.791-04:00","source":{"id":"0","name":"eventBus"}}
